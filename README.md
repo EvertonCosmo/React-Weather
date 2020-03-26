@@ -1,4 +1,20 @@
+
+## React Wheater App 
+<p float="left">
+<img  alt="warm"
+style="float: left; margin-right: 10px;"
+    height="320"
+    width="260" src='screenshots/img1.png'  height='500'/>
+<img  alt="cold"
+    height="329"
+    width="260" 
+	style="margin-right: 10px;"
+     src='screenshots/img2.png'  height='500'/>
+</p>
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
