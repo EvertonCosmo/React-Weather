@@ -1,5 +1,5 @@
 
-## React Wheater App 
+## React Weather App 
 <p float="left">
 <img  alt="warm"
 style="float: left; margin-right: 10px;"
